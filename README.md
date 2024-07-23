@@ -16,7 +16,7 @@ N/A
 
 ## Usage
 
-Opening the [Horiseon Social Solution Services, Inc.](https://eepitsporsche.github.io/challenge_1_website_seo_rework/) webpage displays each subject of SEO with alt text behind each subject's related images/icons.
+Opening the [Horiseon Social Solution Services, Inc.](https://eepitsporsche.github.io/website_seo_rework/) webpage displays each subject of SEO with alt text behind each subject's related images/icons.
 
 ![Horiseon Social Solution Services, Inc.](./assets/images/horiseon.png)
 
